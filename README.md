@@ -7,21 +7,21 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center"  height="30" width="40" src="img/javascript.svg">
+  <img align="center"  height="30" width="40" src="img/html5.svg">
+  <img align="center"  height="30" width="40" src="img/css3.svg">
 </div>
   
   ##
   <div>
     
   #### Social networks
- <a href="https://www.linkedin.com/in/heder-matheus-a81990203/" target="_blank"><img src="/img/linkedin.svg" target="_blank"></a>
- <a href="https://www.facebook.com/hederblz/" target="_blank"><img src="/img/facebook.svg" target="_blank"></a>
- <a href="https://www.instagram.com/hederblz/" target="_blank"><img src="/img/instagram.svg" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/heder-matheus-a81990203/" target="_blank"><img src="img/linkedin.svg" target="_blank"></a>
+ <a href="https://www.facebook.com/hederblz/" target="_blank"><img src="img/facebook.svg" target="_blank"></a>
+ <a href="https://www.instagram.com/hederblz/" target="_blank"><img src="img/instagram.svg" target="_blank"></a>
   </div>
  <div>
-<img height="300em" src="/img/computer-illustration.png"/>
+<img height="200em" src="img/computer-illustration.png"/>
  </div>
 
 
