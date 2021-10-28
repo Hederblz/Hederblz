@@ -26,9 +26,13 @@
   <div style="display: inline_block">
   
   #### Languages and Tools
-  <img align="center"  height="30" width="40" src="img/javascript.svg">
   <img align="center"  height="30" width="40" src="img/html5.svg">
   <img align="center"  height="30" width="40" src="img/css3.svg">
+  <img align="center"  height="30" width="40" src="img/javascript.svg">
+  <img align="center"  height="30" width="40" src="img/java.svg">
+  <img align="center"  height="30" width="40" src="img/python-original.svg">
+  <img align="center"  height="30" width="40" src="img/vscode.svg">
+  <img align="center"  height="30" width="40" src="img/ubuntu.svg">
 </div><br>
 <div>
   <a href="https://github.com/Matheusblz">
