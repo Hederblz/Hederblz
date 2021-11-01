@@ -17,10 +17,10 @@
 <div>
   
   #### Connect with me 
- <a href="www.linkedin.com/in/hederblz" target="_blank"><img src="img/linkedin.svg" target="_blank"></a>
- <a href="twitter.com/Hederblz" target="_blank"><img src="img/twitter.svg" target="_blank"></a>
- <a href="www.facebook.com/hederblz/" target="_blank"><img src="img/facebook.svg" target="_blank"></a>
- <a href="www.instagram.com/hederblz/" target="_blank"><img src="img/instagram.svg" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/hederblz" target="_blank"><img src="img/linkedin.svg" target="_blank"></a>
+ <a href="https://www.twitter.com/Hederblz" target="_blank"><img src="img/twitter.svg" target="_blank"></a>
+ <a href="https://www.facebook.com/hederblz/" target="_blank"><img src="img/facebook.svg" target="_blank"></a>
+ <a href="https://www.instagram.com/hederblz/" target="_blank"><img src="img/instagram.svg" target="_blank"></a>
   </div>
   
   <div style="display: inline_block">
