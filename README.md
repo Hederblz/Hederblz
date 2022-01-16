@@ -34,8 +34,8 @@
   <img align="center"  height="30" width="40" src="img/vscode.svg">
   <img align="center"  height="30" width="40" src="img/ubuntu.svg">
 </div><br>
-<div>
+<!--<div>
   <a href="https://github.com/Matheusblz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hederblz&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hederblz&layout=compact&langs_count=7&theme=radical"/>
-</div>
+</div>-->
