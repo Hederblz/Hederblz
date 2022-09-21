@@ -1,7 +1,7 @@
 ### Olá, mundo! 🌎 Hello, world!
 --- 
    - 🔭 I’m currently working on ...
-   - 🌱 I’m currently learning JavaScript and TypeScript
+   - 🌱 I’m currently learning
    - 💬 Ask me about anything
    #### Connect with me
    [![linkedin](img/linkedin.svg)](https://www.linkedin.com/in/hederblz)
